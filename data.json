@@ -1,0 +1,134 @@
+{
+  "fruits": [
+    {
+      "photo": "https://www.shutterstock.com/image-photo/red-apple-isolated-on-white-600nw-1727544364.jpg",
+      "name": "Apple",
+      "scientific_name": "Malus domestica",
+      "family": "Rosaceae",
+      "origin": "Central Asia",
+      "description": "Apples are a popular fruit with a sweet taste and crisp texture.",
+      "health_benefits": [
+        "Rich in fiber",
+        "Good source of vitamin C",
+        "May aid weight loss"
+      ]
+    },
+    {
+      "photo": "https://desasemoyo.gunungkidulkab.go.id/assets/files/artikel/sedang_1524189176index.jpg",
+      "name": "Banana",
+      "scientific_name": "Musa",
+      "family": "Musaceae",
+      "origin": "Southeast Asia",
+      "description": "Bananas are known for their soft, sweet flesh and yellow skin.",
+      "health_benefits": [
+        "High in potassium",
+        "Provides quick energy",
+        "Supports digestive health"
+      ]
+    },
+    {
+      "photo": "https://talagaluhur-waringinkurung.desa.id/asset/uploads/2021/09/istockphoto-1140677637-612x612-1.jpg",
+      "name": "Orange",
+      "scientific_name": "Citrus × sinensis",
+      "family": "Rutaceae",
+      "origin": "China",
+      "description": "Oranges are a citrus fruit with a tangy and sweet flavor.",
+      "health_benefits": [
+        "Excellent source of vitamin C",
+        "Boosts immune system",
+        "Promotes healthy skin"
+      ]
+    },
+    {
+      "photo": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/11/18/b53a7e77-e04f-47cc-9996-87a97f1eb5d0.jpg",
+      "name": "Strawberry",
+      "scientific_name": "Fragaria × ananassa",
+      "family": "Rosaceae",
+      "origin": "France",
+      "description": "Strawberries are known for their bright red color and juicy texture.",
+      "health_benefits": [
+        "Rich in antioxidants",
+        "Supports heart health",
+        "Improves blood sugar control"
+      ]
+    },
+    {
+      "photo": "https://smb-padiumkm-images-public-prod.oss-ap-southeast-5.aliyuncs.com/product/image/03012024/63b3b3cf0c953b46ab894ff8/65952e93626c8447f5070d65/552b53ea4881b336773524f79bae91.jpg",
+      "name": "Kiwi",
+      "scientific_name": "Actinidia deliciosa",
+      "family": "Actinidiaceae",
+      "origin": "China",
+      "description": "Kiwis have a unique sweet and tangy flavor with green flesh and tiny black seeds.",
+      "health_benefits": [
+        "High in vitamin C",
+        "Aids digestion",
+        "Supports immune function"
+      ]
+    },
+    {
+      "photo": "https://www.astronauts.id/blog/wp-content/uploads/2023/04/Manfaat-Kesehatan-Buah-Mangga-yang-Mungkin-Belum-Kamu-Ketahui.jpg",
+      "name": "Mango",
+      "scientific_name": "Mangifera indica",
+      "family": "Anacardiaceae",
+      "origin": "South Asia",
+      "description": "Mangoes are tropical fruits known for their sweet and juicy flesh.",
+      "health_benefits": [
+        "Rich in vitamins A and C",
+        "Promotes healthy skin",
+        "Supports digestive health"
+      ]
+    },
+    {
+      "photo": "https://rsisurabaya.com/wp-content/uploads/2023/12/artikel-1.png",
+      "name": "Watermelon",
+      "scientific_name": "Citrullus lanatus",
+      "family": "Cucurbitaceae",
+      "origin": "West Africa",
+      "description": "Watermelons are large fruits with a sweet and refreshing taste.",
+      "health_benefits": [
+        "Hydrating properties",
+        "High in vitamins A and C",
+        "May reduce muscle soreness"
+      ]
+    },
+    {
+      "photo": "https://awsimages.detik.net.id/community/media/visual/2022/07/04/diet-nanas-bikin-bb-turun-1-kg-seminggu-apa-aman-untuk-kesehatan-3.jpeg?w=600&q=90",
+      "name": "Pineapple",
+      "scientific_name": "Ananas comosus",
+      "family": "Bromeliaceae",
+      "origin": "South America",
+      "description": "Pineapples are tropical fruits with a sweet and tangy flavor.",
+      "health_benefits": [
+        "Rich in vitamin C",
+        "Aids digestion",
+        "Anti-inflammatory properties"
+      ]
+    },
+    {
+      "photo": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1693464270/attached_image/8-manfaat-anggur-merah-untuk-kesehatan.jpg",
+      "name": "Grape",
+      "scientific_name": "Vitis vinifera",
+      "family": "Vitaceae",
+      "origin": "Near East",
+      "description": "Grapes are small, sweet fruits that come in various colors.",
+      "health_benefits": [
+        "High in antioxidants",
+        "Supports heart health",
+        "May improve memory"
+      ]
+    },
+    {
+      "photo": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2021/11/05094224/Buah-Super-Blueberry-Ini-Kandungan-yang-Ada-di-Dalamnya.jpg",
+      "name": "Blueberry",
+      "scientific_name": "Cyanococcus",
+      "family": "Ericaceae",
+      "origin": "North America",
+      "description": "Blueberries are small, sweet, and packed with nutrients.",
+      "health_benefits": [
+        "Rich in antioxidants",
+        "Supports brain health",
+        "May lower blood pressure"
+      ]
+    }
+  ]
+}
